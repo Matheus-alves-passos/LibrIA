@@ -8,13 +8,13 @@ Este projeto tem como objetivo capturar sinais manuais por meio da webcam, trein
 
 ```
 .
-├── collect_img.py         # Captura imagens da webcam e salva em pastas
-├── create_dataset.py      # Processa imagens salvas e cria um dataset .pickle
-├── train_classifier.py    # Treina modelo RandomForest com os dados coletados
-├── interface_classifier.py# Interface final: previsão em tempo real + fala
-├── data/                  # Diretório gerado contendo subpastas por classe (0, 1, 2, ...)
-├── data.pickle            # Arquivo de dataset gerado com dados + rótulos
-├── model.p                # Modelo treinado salvo
+├── collect_img.py           # Captura imagens da webcam e salva em pastas
+├── create_dataset.py        # Processa imagens salvas e cria um dataset .pickle
+├── train_classifier.py      # Treina modelo RandomForest com os dados coletados
+├── interface_classifier.py  # Interface final: previsão em tempo real + fala
+├── data/                    # Diretório gerado contendo subpastas por classe (0, 1, 2, ...)
+├── data.pickle              # Arquivo de dataset gerado com dados + rótulos
+├── model.p                  # Modelo treinado salvo
 ```
 
 ---
