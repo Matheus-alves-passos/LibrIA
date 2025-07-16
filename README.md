@@ -83,12 +83,11 @@ Este é o sistema final interativo que:
 - “Meu”
 - “Nome”
 - “Matheus”
-- “Faz o L”
 
 Estes rótulos são definidos no dicionário:
 
 ```python
-labels_dict = {0: 'Oi', 1: 'Meu', 2: 'Nome', 3: 'Matheus', 4: 'Faz o L'}
+labels_dict = {0: 'Oi', 1: 'Meu', 2: 'Nome', 3: 'Matheus'}
 ```
 
 ---
