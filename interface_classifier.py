@@ -87,7 +87,7 @@ mp_drawing_styles = mp.solutions.drawing_styles
 hands = mp_hands.Hands(static_image_mode=True, min_detection_confidence=0.5, max_num_hands=2)
 
 # PT: Dicionário de rótulos para os sinais | EN: Label dictionary for signs
-labels_dict = {0: 'Oi', 1: 'Meu', 2: 'Nome', 3: 'Matheus', 4: 'Faz o L'}
+labels_dict = {0: 'Oi', 1: 'Meu', 2: 'Nome', 3: 'Matheus'}
 
 def format_speech_text(detected_signs):
     """
