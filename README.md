@@ -101,15 +101,6 @@ labels_dict = {0: 'Oi', 1: 'Meu', 2: 'Nome', 3: 'Matheus'}
 
 ---
 
-## 💡 Ideias de Expansão
-
-- Adicionar mais classes (gestos).
-- Usar CNN em vez de Random Forest para maior precisão.
-- Adicionar modo de "frase contínua" com buffer de palavras.
-- Exportar frases detectadas para um arquivo `.txt`.
-
----
-
 ## 📚 Créditos
 
 Este projeto utiliza as seguintes tecnologias:
