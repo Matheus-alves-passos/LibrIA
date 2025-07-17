@@ -1,4 +1,4 @@
-# 🖐️ Classificador de Sinais com Mãos (MediaPipe + Random Forest)
+# 🖐️ Tradutor de Libras (MediaPipe + Random Forest)
 
 Este projeto tem como objetivo capturar sinais manuais por meio da webcam, treinar um modelo de **machine learning** para reconhecê-los e, por fim, usar esse modelo em tempo real com feedback por **síntese de voz**.
 
